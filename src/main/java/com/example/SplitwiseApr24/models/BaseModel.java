@@ -16,5 +16,4 @@ public abstract class BaseModel {
     private int id;
     private Date createdAt;
     private Date updatedAt;
-
 }
